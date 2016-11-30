@@ -8,3 +8,23 @@ Við pröfuðum líka að compile-a blink kóða.
 Kæra dagbók 17.11.16
 
 Styltum XBee-ana þannig að arduino-arnir geta talað saman.
+Við byrjuðum að smíða fyrsta vélmennið okkar tengt lokaverkefninu.
+
+Kæra dagbók 22.11.16
+
+Kláruðum að smíða fyrsta vélmennið fyrir utan það að það vantaði ennþá Arduino-ið og t.d. festingu fyrir rafhlöðu.
+Fengum breadboard og tendum einn mótor við Ardunio-ið.
+Við prófuðum að keyra kóða sem notar mótor á Arduino.
+Gerðum fyrstu gerð flowchartsins.
+
+Kæra dagbók 29.11.16
+
+Ég er búinn að vera svakalega veikur undanfarið og gat þar með ekki unnið að verkefninu mikið.
+Við settum saman seinna vélmennið.
+Lóðuðum tengi fyrir rafhlöðu.
+Löguðum og bættum kóðann.
+Við gerðum test-run af vélmönnunum til þess að gá hvort þeir væru syncaðir og hvort það væru aðrar villur í kóðanum.
+
+Kæra dagbók 30.11.16
+
+Við fín pússuðum kóðann smá til viðbótar og við festum svo Tomma styttuna á receiverinn.
